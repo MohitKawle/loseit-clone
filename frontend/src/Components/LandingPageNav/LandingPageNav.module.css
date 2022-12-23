@@ -1,0 +1,36 @@
+/* landing page navbar style start */
+.nav_div{
+    height: 30px;
+    width: 100%;
+    background: linear-gradient(180deg, hsla(207, 81%, 60%, 1) 0%, hsla(207, 77%, 36%, 1) 51%, hsla(207, 77%, 33%, 1) 100%);
+
+    }
+.menu_div{
+    width: 70%;
+    display: flex;
+    margin: auto;
+   
+    height: 30px;
+}
+.menu_div1{
+   width: 70%;
+   display: flex;
+   gap: 20px;
+   justify-content: left;
+   align-items: center;
+}
+.link{
+    color: white;
+    text-decoration: none;
+    font-size: 0.8rem;
+}
+.logo{
+    margin-top: 40px;
+}
+.menu_div2{
+    width: 30%;
+    display: flex;
+    gap: 10px;
+    justify-content: right;
+    align-items: center;
+ }
